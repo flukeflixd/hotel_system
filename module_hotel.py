@@ -207,7 +207,7 @@ def book_room():
                 room_file.writelines(updated_room_lines)
 
         except Exception as e:
-            print(f"An error occurred while updating room status in addroom.txt: {e}")
+            print(f"error addroom.txt: {e}")
 
     except Exception as e:
         print(f"An error occurred while booking the room: {e}")
