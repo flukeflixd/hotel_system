@@ -1,0 +1,6 @@
+1001,Budget Class,2000,Free
+1002,Budget Class,2000,Full
+1003,Standard Class,4000,Free
+1004,Standard Class,4000,Free
+1005,Luxury Class,6000,Free
+1006,Luxury Class,6000,Free
